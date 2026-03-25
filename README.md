@@ -113,4 +113,4 @@ All content is for **educational purposes only**. Splunk® and Splunk SIEM® are
 
 **📡 Built with curiosity, discipline, and a lot of coffee ☕**
 
-*Last Updated: 2026 | Security+ SY0-006*
+*Last Updated: 2026 | Splunk Core
